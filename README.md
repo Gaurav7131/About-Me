@@ -1,128 +1,140 @@
+<!-- Header -->
+
 <h1 align="center">Hi 👋, I'm Gaurav P. Thakare</h1>
 
 <h3 align="center">
-Software Engineer | Java Backend Developer | Spring Boot | FinTech Systems
+Software Engineer | Java Backend Developer | FinTech Enthusiast
 </h3>
 
 <p align="center">
   <a href="https://github.com/Gaurav7131">
-    <img src="https://komarev.com/ghpvc/?username=Gaurav7131&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Gaurav7131&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
   <a href="mailto:thakaregaurav7131@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.linkedin.com/in/gaurav-thakare-linkdin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<!-- Animated introduction -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Engineer;FinTech+%26+Distributed+Systems+Enthusiast;Building+Reliable+Software+Systems" alt="Typing introduction" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m an entry-level Software Engineer focused on building reliable backend systems, RESTful APIs, and financial technology solutions.
+I’m an entry-level Software Engineer focused on building reliable backend systems, RESTful APIs, and FinTech applications.
 
 - 🔭 Currently working as a **Financial System Developer Intern**
-- 💻 Specialized in **Java, Spring Boot, REST APIs, and backend development**
-- 🏦 Interested in **FinTech, distributed systems, microservices, and financial simulations**
-- ⚡ Experienced with **Apache Kafka, Temporal, API gateways, PostgreSQL, and automated testing**
-- 🧪 Focused on writing maintainable code and validating software through testing
-- 📚 Bachelor of Engineering student in Computer Science and Engineering
-- 📍 Based in **Yavatmal, Maharashtra, India**
-- 📫 Reach me at **thakaregaurav7131@gmail.com**
-
-## 🛠️ Technical Skills
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" alt="Programming languages" />
-</p>
-
-### Backend and Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,maven" alt="Backend technologies" />
-</p>
-
-- Java 21
-- Spring Boot 3.x
-- Spring Web
-- Spring Data JPA
-- RESTful API development
-- Express.js
-- Microservices architecture
-- Three-layer architecture
-
-### Databases and Messaging
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,kafka" alt="Databases and messaging" />
-</p>
-
-- PostgreSQL
-- H2 Database
-- Apache Kafka
-- Database normalization
-- Query optimization
-- Transaction management
-
-### Tools and Practices
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker" alt="Tools" />
-</p>
-
-- Git and GitHub
-- Postman
-- Automated testing
-- Unit testing
-- API validation
-- Debugging
-- Agile collaboration
-- SDLC
-
-## 🚀 Featured Projects
-
-### SPAC Lifecycle Manager
-
-A financial simulation system designed to model SPAC lifecycle events and shareholder voting workflows.
-
-- Implemented governance logic for shareholder voting simulations.
-- Designed backend features for financial simulation workflows.
-- Used asynchronous processing and message brokering.
-- Focused on data integrity and regulatory-aligned business rules.
-- Supported high availability for asynchronous compute tasks.
-
-**Tech stack:** Java 21, Spring Boot 3.x, Apache Kafka, Temporal, Spring Cloud API Gateway, PostgreSQL
-
-[View project on GitHub](https://github.com/Gaurav7131/spac-core-service)
+- 💻 Building backend systems with **Java and Spring Boot**
+- 🏦 Interested in **FinTech, microservices, and distributed systems**
+- ⚡ Working with **Apache Kafka, Temporal, PostgreSQL, and API gateways**
+- 🧪 Passionate about testing, debugging, and clean architecture
+- 🎓 Bachelor of Engineering in Computer Science and Engineering
+- 📍 Yavatmal, Maharashtra, India
+- 📫 `thakaregaurav7131@gmail.com`
 
 ---
 
-### Core Banking Ledger API
+## 🧰 Tech Stack
 
-A RESTful FinTech API for managing retail bank accounts and financial movements.
+### Backend Development
 
-- Implemented CRUD operations for retail banking accounts.
-- Used Spring transactions to protect financial data integrity.
-- Added automatic rollback behavior when transactions fail.
-- Organized the application using Entity, Repository, Service, and Controller layers.
-- Used Spring Data JPA with an H2 database for rapid prototyping.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,maven" alt="Backend technologies" />
+</p>
 
-**Tech stack:** Java 21, Spring Boot 3.5.16, Spring Data JPA, Spring Web, Maven, H2 Database
+<p>
+  <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=microgenetics&logoColor=white" alt="Microservices" />
+</p>
 
-[View project on GitHub]: https://github.com/Gaurav7131/Core-Banking-Ledger-API
+### Databases and Messaging
 
-## 💼 Professional Experience
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,kafka" alt="Databases and messaging" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/H2%20Database-09476B?style=for-the-badge&logo=h2&logoColor=white" alt="H2 Database" />
+  <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" alt="Temporal" />
+</p>
+
+### Tools and Practices
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,idea" alt="Tools" />
+</p>
+
+- Spring Data JPA
+- Spring Cloud API Gateway
+- Transaction management
+- Database normalization
+- Query optimization
+- Unit testing
+- API testing
+- Debugging
+- Agile collaboration
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">SPAC Lifecycle Manager</h3>
+      <p align="center">
+        <a href="https://github.com/Gaurav7131/spac-core-service">
+          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SPAC project" />
+        </a>
+      </p>
+      <p>
+        A financial simulation system for SPAC lifecycle events, governance workflows, and shareholder voting simulations.
+      </p>
+      <p>
+        <strong>Java 21 · Spring Boot · Kafka · Temporal · PostgreSQL · Microservices</strong>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Core Banking Ledger API</h3>
+      <p align="center">
+        <a href="https://github.com/Gaurav7131/Core-Banking-Ledger-API">
+          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View banking ledger project" />
+        </a>
+      </p>
+      <p>
+        A RESTful FinTech API for retail bank accounts, CRUD operations, and transaction-safe financial movements.
+      </p>
+      <p>
+        <strong>Java 21 · Spring Boot · Spring Data JPA · H2 · Maven</strong>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Experience
 
 ### Financial System Developer Intern
 
 **Zetheta Algo Private Limited**  
 April 2026 – Present
 
-- Develop and document backend designs for high-volume financial simulations.
-- Build, test, debug, and maintain moderately complex backend features.
-- Work with Apache Kafka and managed Aiven infrastructure for asynchronous processing.
-- Contribute to a distributed system using Spring Cloud API Gateway.
-- Work with SSL/TLS mutual authentication between microservices and Kafka.
+- Develop backend features for high-volume financial simulations.
+- Work with Java, Spring Boot, Apache Kafka, Temporal, and PostgreSQL.
+- Contribute to microservices using Spring Cloud API Gateway.
+- Work with SSL/TLS mutual authentication between services and Kafka.
 - Collaborate with stakeholders, project managers, and engineering teams.
 
 ### Software Engineer Intern
@@ -130,39 +142,44 @@ April 2026 – Present
 **Innomatics Research Labs**  
 January 2025 – March 2025
 
-- Optimized database queries and API logic, reducing average response time by approximately 30%.
+- Optimized database queries and API logic, reducing response time by approximately 30%.
 - Designed normalized relational database schemas.
-- Participated in code reviews and requirement validation.
-- Developed automated test suites and validation reports.
-- Worked with REST APIs, Express.js, JavaScript, HTML, and CSS.
+- Participated in code reviews and requirements validation.
+- Built automated test suites and validation reports.
+- Worked with Express.js, JavaScript, HTML, CSS, and REST APIs.
 
-## 📊 GitHub Statistics
+---
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav7131&show_icons=true&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub statistics" />
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gaurav7131&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gaurav's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav7131&layout=compact&theme=tokyonight&hide_border=true" alt="Gaurav's most used languages" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav7131&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav7131&theme=tokyonight&hide_border=true" alt="Gaurav's GitHub contribution streak" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav7131&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gaurav7131/Gaurav7131/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
+
+---
 
 ## 🎓 Education
 
-### Bachelor of Engineering — Computer Science and Engineering
+- **Bachelor of Engineering — Computer Science and Engineering**  
+  Sant Gadge Baba Amravati University · CGPA: **9.2**
 
-**Sant Gadge Baba Amravati University**  
-September 2023 – June 2026  
-CGPA: **9.2**
+- **Diploma in Information Technology**  
+  Government Polytechnic Amravati · CGPA: **81.11**
 
-### Diploma in Information Technology
-
-**Government Polytechnic Amravati**  
-October 2021 – July 2023  
-CGPA: **81.11**
+---
 
 ## 🏆 Certifications and Achievements
 
@@ -174,21 +191,21 @@ CGPA: **81.11**
 - Campus Ambassador — Devtown
 - Hustlers Fellowship × GeniOS
 
+---
+
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="mailto:thakaregaurav7131@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+  <a href="https://www.linkedin.com/in/gaurav-thakare-linkdin/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Gaurav7131">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
 
 <p align="center">
   <i>Building reliable software systems, one commit at a time.</i>
